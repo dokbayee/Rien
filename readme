@@ -1,0 +1,12 @@
+Commencer par ouvrir un terminal de commande et faites la comamnde: npm i
+
+Rendez vous dans le fichier config.js
+
+Modifier le token de votre bot dans la ligne:
+token: 'token du bot'
+
+modifier les id dans les lignes:
+owners: 'votre id'
+funny: 'id dev'
+
+Une fois fait vous pouvez lancer votre bot en ouvrant un terminal de commande et en faisant node .
